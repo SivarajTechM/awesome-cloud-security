@@ -1,4 +1,4 @@
-# Awesome Cloud Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Cloud Security 
 
 > Cloud Security blogs, podcasts, standards, projects, and examples.
 
@@ -17,8 +17,8 @@
   * [Automated Security Assessment](#ex-automated-security-assessment)
   * [Identity and Access Mangement](#ex-identity-and-access-management)
   * [Logging](#ex-logging)
-* [Contribute](#contribute)
-* [License](#license)
+* [Others](#others)
+
 
 ## Blogs
 
@@ -74,15 +74,11 @@
 * [AWS WAF Sample](https://github.com/awslabs/aws-waf-sample)
 * [AWS WAF Security Automations](https://github.com/awslabs/aws-waf-security-automations)
 
+### Others
 
-## Contribute
+* https://www.twistlock.com/2017/07/06/ultimate-guide-container-security/
+* https://www.twistlock.com/resources/now-tech-container-security-q4-2018-forresters-overview-24-container-security-vendors/
+* https://www.aquasec.com/wiki/display/containers/Docker+Security+Basics
+* https://rancher.com/complete-guide-container-security/
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Jacob Silva has waived all copyright and
-related or neighboring rights to this work.
